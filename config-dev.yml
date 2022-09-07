@@ -1,2 +1,2 @@
 config:
-  info: springcloud-config-info-dev,version=3
+  info: springcloud-config-info-dev,version=4
